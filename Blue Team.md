@@ -1,3 +1,5 @@
+# ตารางเรียน Blue Team
+
 | Data     | Time          | Subject | Remark |
 |----------|---------------|---------|--------|
 | วันเสาร์ที่ 2 กันยายน 2566    | 09:00 - 16:00  | - Depa เปิดกล่าวเปิดโครงการ <br /> - Introduction to security career <br /> - Career Ethic <br /> - Panel Dev Sec Ops <br /> - Ice Breaking <br /> - Introduction to CodeKit    |        |
@@ -8,3 +10,9 @@
 | วันอาทิตย์ ที่ 8 ตุลาคม 2566  | 09:00 - 16:00  | - Introduction to Incident Response <br /> - Incident Response Methodology <br /> - Incident Response Tools <br /> - Incident Response Techniques by Categories <br /> - Incident Response       |        |
 | วันเสาร์ ที่ 28 ตุลาคม 2566   | 09:00 - 16:00  | - สอบ Post - Test <br /> - การแข่งขัน Capture The Flag <br /> - ประกาศรางวัลผู้ชนะ / กล่าวปิดพิธี <br /> - Networking | On site สถานที่ <br /> Pro hub <br /> @ Siam discovery       | 
 
+ผู้ออกแบบหลักสูตรหลักและวิทยากรหลัก คุณวัชรพล วงศ์อภัย มีประวัติดังนี้
+
+- ***ได้รับรางวัลระดับเอเชียคือ Reward (ISC)2® Announces 2015 Asia-Pacific Information Security Leadership Achievements (ISLA)***
+- ***ได้รับ Certificate CompTIA Security+ และ EC-Council CEH v8 ตรงตามหลักสูตรที่ออกแบบ***
+- ***Certificate*** อื่นๆ ที่ได้รับ ***CISSP ,SANS GCIH and GCFA ,SSCP ,ECSA ,Pentest+ ,MCT***
+- *กำหนดการ อาจมีการปลี่ยนแปลงตามความเหมาะสม*
