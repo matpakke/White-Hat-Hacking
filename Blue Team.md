@@ -1,3 +1,5 @@
+![Blue Team banner](Blue%20Team%20banner.png)
+
 # ตารางเรียน Blue Team
 
 | Date     | Time          | Subject | Remark |
