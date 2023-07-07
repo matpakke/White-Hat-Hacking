@@ -1,3 +1,5 @@
+![Red Team banner](/Red%20Team%20banner.png)
+
 # ตารางเรียน Red Team
 
 | Date | Time | Subject | Remark |
