@@ -1,5 +1,7 @@
 ![Red Team banner](/Red%20Team%20banner.png)
 
+(VDO workshop ย้อนหลัง)[https://hallowed-sidecar-b31.notion.site/VDO-workshop-075f6058e45248098cb3d71f3cf83926]
+
 # ตารางเรียน Red Team
 
 | Date | Time | Subject | Remark |
